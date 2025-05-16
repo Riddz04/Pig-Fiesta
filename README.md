@@ -2,6 +2,7 @@
 
 Welcome to **Pig Fiesta**, a fun and fast-paced dice game where pigs, luck, and strategy collide! Built with ❤️ using **Node.js**, **Express**, and **Socket.io**, this game is a modern web-based version of the classic *Pig* dice game — now with fiesta flair!
 
+
 [🎮 Play Live](https://pig-fiesta.vercel.app)
 
 ---
@@ -34,7 +35,7 @@ Roll the dice as many times as you like during your turn, but beware — roll a 
 
 ## 📸 Preview
 
-![Pig Fiesta Screenshot]()
+![Pig Fiesta Preview](https://raw.githubusercontent.com/Riddz04/Pig-Fiesta/main/Screenshot%202025-05-16%20at%2015.23.03.png)
 
 ---
 
