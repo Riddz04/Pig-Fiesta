@@ -9,7 +9,7 @@ Welcome to **Pig Fiesta**, a fun and fast-paced dice game where pigs, luck, and 
 
 ## 🎯 Objective
 
-Be the first player to reach **100 points**!  
+Be the first player to reach **50 points**!  
 Roll the dice as many times as you like during your turn, but beware — roll a **1** and you lose everything from that round!
 
 ---
