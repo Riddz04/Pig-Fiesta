@@ -20,7 +20,7 @@ Roll the dice as many times as you like during your turn, but beware — roll a 
 2. On your turn, click **"Roll"** to roll the dice.
 3. Each roll adds to your **current score**, unless you roll a **1** — which resets it!
 4. Click **"Hold"** to bank your current score and pass the turn.
-5. First to **100 points** wins the game and becomes the Pig Fiesta Champion!
+5. First to **50 points** wins the game and becomes the Pig Fiesta Champion!
 
 ---
 
